@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **C-Language**
 
-- 👨‍💻 Some of my projects are available at [https://github.com/JaShu01](https://github.com/JaShu01)
+- 👨‍💻 Some of my projects are available at [[https://github.com/JaShu01](https://github.com/JaShu01](https://github.com/JaShu01?tab=repositories))
 
 - 📫 How to reach me **jashu01@mail.ru**
 
