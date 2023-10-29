@@ -37,8 +37,9 @@ During my time at university, I had the opportunity to work on several exciting 
 
 5. **Mobile Shopping App: Business Plan and Development**  
    In a team project for the "Software Engineering" course, we developed a business plan and built a mobile shopping app. This project enabled me to apply software engineering principles, work collaboratively, and deliver a functional solution.
-6. ** Web Development Projects
-Beyond my academic endeavors, I am passionate about web development. In my free time, I take on  projects where I create websites from scratch, utilizing both frontend and backend technologies, with an emphasis on building RESTful APIs. These personal projects allow me to continuously refine my coding skills, stay up-to-date with the latest industry trends, and provide valuable solutions to clients seeking to establish their online presence. Through these experiences, I have honed my ability to work independently, meet tight deadlines, and deliver high-quality, responsive websites that meet the unique needs of each client.
+6. **Web Development Projects**
+   Beyond my academic endeavors, I am passionate about web development. In my free time, I take on projects where I create websites from scratch, utilizing both frontend and backend technologies, with an emphasis on building RESTful APIs. These personal projects allow me to continuously refine my coding skills, stay up-to-date with the latest industry trends, and provide valuable solutions to clients seeking to establish their online presence. Through these experiences, I have honed my ability to work independently, meet tight deadlines, and deliver high-quality, responsive websites that meet the unique needs of each client.
+
 
 
 <h3 align="left">Languages and Tools:</h3>
