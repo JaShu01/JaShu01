@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **jashu01@mail.ru**
 
-- ⚡ Fun fact **I'm a fan of snowboarding**
+- ⚡ Fun fact **I love snowboarding**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
