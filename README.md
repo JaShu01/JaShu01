@@ -7,7 +7,7 @@
 
 
 
-- 🌱 I’m currently learning **C-Language**
+- 🌱 I’m currently learning **C-Language** and explore **Web-Programming**
 
 - 👨‍💻 Some of my projects are available at [https://github.com/JaShu01?tab=repositories]
 
