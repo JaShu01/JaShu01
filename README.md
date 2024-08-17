@@ -7,7 +7,7 @@
 
 
 
-- 🌱 I’m currently learning **C-Language** and explore **Web-Programming**
+- 🌱 I’m currently **I am delving deeper into the field of cybersecurity.**
 
 - 👨‍💻 Some of my projects are available at [https://github.com/JaShu01?tab=repositories]
 
@@ -41,6 +41,8 @@ During my time at university, I had the opportunity to work on several exciting 
 
     Beyond my academic endeavors, I am passionate about web development. In my free time, I take on projects where I create websites from scratch, utilizing both frontend and backend technologies, with an emphasis on building RESTful APIs. These personal projects allow me to continuously refine my coding skills, stay up-to-date with the latest industry trends, and provide valuable solutions to clients seeking to establish their online presence. Through these experiences, I have honed my ability to work independently, meet tight deadlines, and deliver high-quality, responsive websites that meet the unique needs of each client.
 
+7. **Programming Lab Projekt**
+   This project involves frontend programming using HTML, CSS, and JavaScript, and backend development using SQL and PHP. The database server is hosted using Docker. The project focuses on programming and analyzing the presented database from the perspective of the store's profitability.
 
 
 <h3 align="left">Languages and Tools:</h3>
