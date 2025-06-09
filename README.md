@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jabrail, a Student-Developer. </h1>
+<h1 align="center">Hi 👋, I'm Jabrail </h1>
 <h3 align="center">I am a Working-Student, i study at the Faculty of Business Informatics and am looking for work experience in the field of Informationstechnik (IT).</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jashu01&label=Profile%20views&color=0e75b6&style=flat" alt="jashu01" /> </p>
@@ -6,43 +6,14 @@
 
 
 
-
-- 🌱 I’m currently **I am delving deeper into the field of cybersecurity.**
-
 - 👨‍💻 Some of my projects are available at [https://github.com/JaShu01?tab=repositories]
 
-- 📫 How to reach me **jashu01@mail.ru**
-
-- ⚡ Fun fact **I love snowboarding**
+- 📫 How to reach me **shurayevjabrail@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/jashu01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jashu01" height="30" width="40" /></a>
 </p>
-- 📄 # Know about my experiences
-
-During my time at university, I had the opportunity to work on several exciting projects that allowed me to apply my skills and broaden my knowledge. Here are some notable projects I completed:
-
-1. **Real-Time System Development and Implementation**  
-   In the "Operating Systems and Computer Networks" course, I successfully developed and implemented a real-time system consisting of four processes. This project challenged me to optimize system performance and ensure seamless communication between processes.
-
-2. **NoSQL Project with Redis**  
-   As part of the "Structured Data Storage" course, I undertook a small NoSQL project using Redis. I gained hands-on experience with this powerful in-memory database, exploring its capabilities and understanding its use cases.
-
-3. **Plagiarism Detection Web Application**  
-   In the "Web Applications" course, I created a web application that focuses on plagiarism detection using a local database. This project allowed me to dive into web development concepts and build an application with practical applications.
-
-4. **International Collaboration in Project Management**  
-   As part of a project management course, I collaborated with students from Boston, USA, to create a comprehensive automation plan for a company. This experience provided valuable insights into working across cultures and managing complex projects with a diverse team.
-
-5. **Mobile Shopping App: Business Plan and Development**  
-   In a team project for the "Software Engineering" course, we developed a business plan and built a mobile shopping app. This project enabled me to apply software engineering principles, work collaboratively, and deliver a functional solution.
-6. **Web Development Projects**
-
-    Beyond my academic endeavors, I am passionate about web development. In my free time, I take on projects where I create websites from scratch, utilizing both frontend and backend technologies, with an emphasis on building RESTful APIs. These personal projects allow me to continuously refine my coding skills, stay up-to-date with the latest industry trends, and provide valuable solutions to clients seeking to establish their online presence. Through these experiences, I have honed my ability to work independently, meet tight deadlines, and deliver high-quality, responsive websites that meet the unique needs of each client.
-
-7. **Programming Lab Projekt**
-   This project involves frontend programming using HTML, CSS, and JavaScript, and backend development using SQL and PHP. The database server is hosted using Docker. The project focuses on programming and analyzing the presented database from the perspective of the store's profitability.
 
 
 <h3 align="left">Languages and Tools:</h3>
